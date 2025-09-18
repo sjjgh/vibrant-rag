@@ -1,0 +1,575 @@
+[](https://vibrant-wellness.com) ![vibrant-wellness-logo](https://vibrant-wellness.com/hubfs/vibrant-wellness-logo.svg)
+[ Provider Login ](https://portal.vibrant-wellness.com/#/login)
+[ Patient Login ](https://vibrant-wellness.mypatienthubs.com/#/login)
+[ Sign Up ](https://vibrant-wellness.com/signup)
+[ ![help-icon](https://vibrant-wellness.com/hubfs/help-icon.svg) Get Help  ](https://help.vibrant-wellness.com/hc/en-us)
+[ For Providers  ](https://vibrant-wellness.com/for-providers)
+Provider Portal
+[ Provider Login ](https://portal.vibrant-wellness.com/#/login?nav=1)
+[ Interested in a provider account? Get started ](https://portal.vibrant-wellness.com/#/sign-up/whats-your-next-step)
+[ Collection Instructions ](https://vibrant-wellness.com/for-patients/collection) [ Science and Research ](https://vibrant-wellness.com/technology/science-research) [ Webinars ](https://vibrant-wellness.com/resources/webinar) [ Blog ](https://vibrant-wellness.com/blog)
+For Providers
+[ ![](https://vibrant-wellness.com/hubfs/ComplianceGuideline.svg) Cutting Edge Technology  ](https://vibrant-wellness.com/technology/science-technology)
+Proprietary 3Dense microchip technology platform with Microarrays and Mass Spectrometry
+[ ![](https://vibrant-wellness.com/hubfs/HD%20Assets/Testing.svg) Our Tests  ](https://vibrant-wellness.com/tests)
+Get to the root of complex health puzzles with the most advanced functionality testing available
+[ ![](https://vibrant-wellness.com/hubfs/HD%20Assets/HelpCenter.svg) Help Center  ](https://help.vibrant-wellness.com/hc/en-us)
+Explore our comprehensive knowledge base
+[ For Patients  ](https://vibrant-wellness.com/for-patients)
+Patient navigation System
+[ Patient Login ](https://vibrant-wellness.mypatienthubs.com/#/login)
+[ Make Payment ](https://www.vibrant-america.com/patient-nav-portal?__hstc=84994950.2d6aeacad177fe64dbd90bea683b84f6.1758156499825.1758156499825.1758156499825.1&__hssc=84994950.1.1758156499825&__hsfp=784725215) [ Track Kit Status ](https://www.vibrant-america.com/patient-nav-portal?__hstc=84994950.2d6aeacad177fe64dbd90bea683b84f6.1758156499825.1758156499825.1758156499825.1&__hssc=84994950.1.1758156499825&__hsfp=784725215) [ Help Center ](https://help.vibrant-wellness.com/hc/en-us)
+For Patients
+[ ![](https://vibrant-wellness.com/hubfs/HD%20Assets/SampleTypeInstruction.svg) Collection Instructions  ](https://vibrant-wellness.com/for-patients/collection)
+Sample At-home Collection Instructions and Videos
+[ ![](https://vibrant-wellness.com/hubfs/HD%20Assets/Testing.svg) Our Tests  ](https://vibrant-wellness.com/tests)
+Explore our Test menu for a comprehensive offering of advanced Wellness testing
+[ ![](https://vibrant-wellness.com/hubfs/HD%20Assets/BloodDrawLocations.svg) Blood Draw Locations  ](https://www.vibrant-america.com/blood-draw-maps/v2?__hstc=84994950.2d6aeacad177fe64dbd90bea683b84f6.1758156499825.1758156499825.1758156499825.1&__hssc=84994950.1.1758156499825&__hsfp=784725215)
+Schedule and get your blood draw at a draw center or from a mobile phlebotomist At-home
+[ Test Menu  ](https://vibrant-wellness.com/tests)
+Test Menu
+[ Food Reaction  ](https://vibrant-wellness.com/tests/food-reaction)
+[ Wheat Zoomer Test ](https://vibrant-wellness.com/tests/food-reaction/wheat-zoomer) [ Soy Zoomer Test ](https://vibrant-wellness.com/tests/food-reaction/soy-zoomer) [ Egg Zoomer Test ](https://vibrant-wellness.com/tests/food-reaction/egg-zoomer) [ Corn Zoomer Test ](https://vibrant-wellness.com/tests/food-reaction/corn-zoomer) [ Peanut Zoomer Test ](https://vibrant-wellness.com/tests/food-reaction/peanut-zoomer) [ Grain Zoomer Test ](https://vibrant-wellness.com/tests/food-reaction/grain-zoomer) [ Nut Zoomer Test ](https://vibrant-wellness.com/tests/food-reaction/nut-zoomer)
+[ Dairy Zoomer Test ](https://vibrant-wellness.com/tests/food-reaction/dairy-zoomer) [ Lectin Zoomer Test ](https://vibrant-wellness.com/tests/food-reaction/lectin-zoomer) [ Food Sensitivity Test Complete ](https://vibrant-wellness.com/tests/food-reaction/food-sensitivity-complete) [ Food Sensitivity Test Profile 1 ](https://vibrant-wellness.com/tests/food-reaction/food-sensitivity-profile-1) [ Food Sensitivity Test Profile 2 ](https://vibrant-wellness.com/tests/food-reaction/food-sensitivity-profile-2) [ Food Additives Test ](https://vibrant-wellness.com/tests/food-reaction/food-additives) [ Food Allergy Panel ](https://vibrant-wellness.com/tests/food-reaction/food-allergy-panel)
+[ Toxins  ](https://vibrant-wellness.com/tests/toxins)
+[ Environmental Toxins Test ](https://vibrant-wellness.com/tests/toxins/environmental-toxins) [ Heavy Metals Test ](https://vibrant-wellness.com/tests/toxins/heavy-metals) [ Mycotoxins Test ](https://vibrant-wellness.com/tests/toxins/mycotoxins) [ PFAS Chemical Test ](https://vibrant-wellness.com/tests/toxins/pfas-chemical) [ Total Tox Burden Test ](https://vibrant-wellness.com/tests/toxins/total-tox-burden) [ Toxin Genetics Test ](https://vibrant-wellness.com/tests/toxins/toxin-genetics)
+[ Infections  ](https://vibrant-wellness.com/tests/infections)
+[ Candida + IBS Profile ](https://vibrant-wellness.com/tests/infections/candida-ibs-profile) [ Lyme Autoimmune ](https://vibrant-wellness.com/tests/infections/lyme-autoimmune) [ Tickborne Complete 2.0 Panel ](https://vibrant-wellness.com/tests/infections/tickborne-disease) [ UTI Zoomer ](https://vibrant-wellness.com/tests/infections/uti-zoomer) [ Viral Infections Test ](https://vibrant-wellness.com/tests/infections/viral-infections)
+[ Nutrients  ](https://vibrant-wellness.com/tests/nutrients)
+[ Micronutrient Panel ](https://vibrant-wellness.com/tests/nutrients/micronutrient-panel) [ NutriPro Test ](https://vibrant-wellness.com/tests/nutrients/nutripro) [ Organic Acids Test ](https://vibrant-wellness.com/tests/nutrients/organic-acids) [ Whole Blood Nutrient Profile ](https://vibrant-wellness.com/tests/nutrients/whole-blood-nutrient-profile)
+[ Autoimmune  ](https://vibrant-wellness.com/tests/autoimmune)
+[ Autoimmune Zoomer ](https://vibrant-wellness.com/tests/autoimmune/autoimmune-zoomer) [ Celiac Panel ](https://vibrant-wellness.com/tests/autoimmune/celiac-panel)
+[ Hormones  ](https://vibrant-wellness.com/tests/hormones)
+[ Hormone Zoomer ](https://vibrant-wellness.com/tests/hormones/hormone-zoomer) [ Salivary Hormones Test ](https://vibrant-wellness.com/tests/hormones/salivary-hormone)
+[ Cardiovascular Health  ](https://vibrant-wellness.com/tests/cardiovascular-health)
+[ CardiaX Test ](https://vibrant-wellness.com/tests/cardiovascular/cardia-x) [ Cardiac Health Panel ](https://vibrant-wellness.com/tests/cardiovascular/cardiac-health-panel) [ Methylation Panel ](https://vibrant-wellness.com/tests/cardiovascular/methylation-panel)
+[ Longevity  ](https://vibrant-wellness.com/tests/longevity)
+[ Healthspan Assessment Panel ](https://vibrant-wellness.com/tests/longevity/healthspan-assessment-panel) [ Oxidative Stress Profile ](https://vibrant-wellness.com/tests/longevity/oxidative-stress-profile)
+[ Gut Health  ](https://vibrant-wellness.com/tests/gut-health)
+[ Gut Zoomer Test ](https://vibrant-wellness.com/tests/gut-health/gut-zoomer)
+[ Neural Health  ](https://vibrant-wellness.com/tests/neural-health)
+[ Neural Zoomer Plus Test ](https://vibrant-wellness.com/tests/neural-health/neural-zoomer-plus) [ Neurotransmitters Panel ](https://vibrant-wellness.com/tests/neural-health/neurotransmitters-panel)
+[ Technology  ](https://vibrant-wellness.com/technology/science-technology)
+Technology
+[ ![](https://vibrant-wellness.com/hubfs/ComplianceGuideline.svg) Cutting Edge Technology  ](https://vibrant-wellness.com/technology/science-technology)
+Proprietary 3Dense microchip technology platform with Microarrays and Mass Spectrometry.
+[ ![](https://vibrant-wellness.com/hubfs/HD%20Assets/ScienceandResearch.svg) Science and Research  ](https://vibrant-wellness.com/technology/science-research)
+Research featured in peer-reviewed publications with renowned international institutions.
+[ ![](https://vibrant-wellness.com/hubfs/HD%20Assets/AdvanceSoftware.svg) Advanced Software  ](https://vibrant-wellness.com/technology/advanced-software)
+Creative software solutions to improve efficiency.
+[ About  ](https://vibrant-wellness.com/about-us)
+About
+[ ![](https://vibrant-wellness.com/hubfs/HD%20Assets/AboutUs.svg) About Us  ](https://vibrant-wellness.com/about-us)
+Our expert team that guides our path and your Wellness.
+[ ![](https://vibrant-wellness.com/hubfs/HD%20Assets/Certificate.svg) Certifications  ](https://vibrant-wellness.com/resources/certifications)
+View our certifications, licenses, and compliance guidelines.
+[ ![](https://vibrant-wellness.com/hubfs/HD%20Assets/Career.svg) Careers  ](https://vibrant-wellness.com/career)
+Join the lab tech revolution and change the face of health & wellness
+[ ![help-icon](https://vibrant-wellness.com/hubfs/help-icon.svg) ](https://help.vibrant-wellness.com/hc/en-us)
+[ Sign In  ](https://vibrant-wellness.com/tests/food-reaction/food-sensitivity-profile-1)
+[ Provider Login ](https://portal.vibrant-wellness.com/#/login)
+[ Patient Login ](https://vibrant-wellness.mypatienthubs.com/#/login)
+[ Sign Up ](https://vibrant-wellness.com/signup)
+  * [ ![FS - 05](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2005.webp) ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2005.webp)
+  * [ ![FS - 01](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2001.png) ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2001.png)
+  * [ ![FS - 02](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2002.png) ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2002.png)
+  * [ ![FS - 04](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2004.png) ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2004.png)
+
+
+  * ![FS - 05](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2005.webp)
+  * ![FS - 01](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2001.png)
+  * ![FS - 02](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2002.png)
+  * ![FS - 04](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2004.png)
+
+
+#####  You may benefit from this test if you have:
+Frequent bloating, diarrhea, or IBS
+Unexplained headaches or migraines
+Chronic fatigue or brain fog
+Joint pain or inflammatory symptoms
+Persistent skin issues like eczema
+Autoimmune or inflammatory conditions
+A history of food sensitivities
+Neurological concerns or cognitive issues
+#  Food Sensitivity Test Profile 1
+[ Get Started ](https://vibrant-wellness.com/signup)
+At Home Test Available
+The Food Sensitivity Profile 1 is a targeted blood test that assesses IgG- and IgA-mediated immune responses to most commonly consumed foods. Utilizing protein microarray technology, this comprehensive panel helps identify potential food sensitivities contributing to inflammation, digestive discomfort, intestinal permeability and other symptoms, supporting personalized dietary adjustments.
+#####  What We Measure
+![](https://vibrant-wellness.com/hubfs/Icon1.svg) 27 Animal-Based Foods
+![](https://vibrant-wellness.com/hubfs/Icon1.svg) 17 Plant-Based Foods
+![](https://vibrant-wellness.com/hubfs/Icon1.svg) 38 Grains & Miscellaneous Foods
+#####  Product Highlights
+Targeted Sensitivity Testing
+  * IgG- and IgA-Mediated Sensitivity Detection identifies immune responses to commonly consumed foods that may cause inflammation and discomfort.
+  * Advanced Technology for Clear Results utilizes peptide microarray technology to deliver more accurate and detailed food sensitivity data.
+
+
+Optimized Health Management
+  * Personalized Dietary Modifications helps individuals avoid problematic foods, reducing inflammation and improving long-term health.
+  * Reduced Symptoms & Improved Wellness enables individuals to optimize health by addressing food sensitivities linked to chronic health issues.
+
+
+#####  Sample Report
+[ Download Food Sensitivity Profile 1 Sample Report ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Profile-1/Food-Sensitivity-Profile-1-Sample-Report-Full-Report.pdf)
+[ Download Sample Report ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Profile-1/Food-Sensitivity-Profile-1-Sample-Report-Full-Report.pdf)
+7-14 Days
+#####  Sample Type
+Blood
+DBS
+[ Explore Collection Instruction ](https://vibrant-wellness.com/for-patients/collection)
+#####  NY State Available
+Yes
+#####  You may benefit from this test if you have:
+Frequent bloating, diarrhea, or IBS
+Unexplained headaches or migraines
+Chronic fatigue or brain fog
+Joint pain or inflammatory symptoms
+Persistent skin issues like eczema
+Autoimmune or inflammatory conditions
+A history of food sensitivities
+Neurological concerns or cognitive issues
+[ ![PdfDown-2](https://vibrant-wellness.com/hubfs/PdfDown-2.svg) View Food Reaction Publications and Resources ](https://vibrant-wellness.com/technology/science-research)
+##  Precision Testing You Can Trust
+All of our laboratory tests are performed in a CLIA-certified and CAP-accredited facility in California
+![CMSWhite](https://vibrant-wellness.com/hs-fs/hubfs/CMSWhite.webp?width=412&height=180&name=CMSWhite.webp)
+![HIPAAWhite](https://vibrant-wellness.com/hs-fs/hubfs/HIPAAWhite.webp?width=360&height=180&name=HIPAAWhite.webp)
+##  Why Order the Food Sensitivity Profile 1
+![Food Additives 05](https://vibrant-wellness.com/hs-fs/hubfs/Tests/Food-Additives/Food%20Additives%2005.png?width=623&height=510&name=Food%20Additives%2005.png)
+####  Understand Your Food Sensitivities
+Experiencing unexplained symptoms like bloating or fatigue? The Food Sensitivity Profile 1 helps identify IgG- and IgA-mediated immune responses to common foods, providing clarity on what may be triggering your symptoms.
+####  Detect Food Sensitivities Early
+Early detection of food sensitivities allows for proactive dietary changes. The Food Sensitivity Profile 1 helps identify sensitivities before they escalate into chronic health issues, enabling you to address symptoms early.
+####  Take Control of Your Health
+Knowing your food sensitivities empowers you to make informed dietary changes that improve your health. This test provides actionable results, helping you manage your sensitivities with confidence and clarity.
+####  A Plan Made for You
+Generic dietary plans don’t work for everyone. Based on your test results, your healthcare provider can create a customized nutrition plan that addresses your specific food sensitivities and promotes long-term wellness.
+##  The Food Sensitivity Profile 1 provides targeted insights into food intolerances
+Detects IgG and IgA responses to common foods, helping identify inflammatory reactions that contribute to digestive discomfort, skin issues, and chronic symptoms. Supports dietary adjustments for better health.
+![VW Blue Box - No Shadow](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Test%20Pages/VW%20Blue%20Box%20-%20No%20Shadow.png?width=1066&height=768&name=VW%20Blue%20Box%20-%20No%20Shadow.png)
+##  About the Food Sensitivity Test Profile 1
+Key Markers  Why Is This Important  Additional Resources
+Animal-Based Foods  Plant-Based Foods  Grains & Miscellaneous Foods
+**Dairy:**
+  * Beta-Casein
+  * Casomorphin
+  * Cow’s Milk
+  * Goat’s Milk
+  * Whey Protein
+
+
+**Meat:**
+  * Beef
+  * Chicken
+  * Egg White
+  * Egg Yolk
+  * Lamb
+  * Pork
+  * Turkey
+
+
+**Fish:**
+  * Catfish
+  * Codfish
+  * Halibut
+  * Lake Trout
+  * Mackerel
+  * Perch
+  * Salmon
+  * Tuna
+
+
+**Shellfish & Mollusks:**
+  * Crab
+  * Lobster
+  * Shrimp
+  * Clam
+  * Oyster
+  * Scallops
+
+
+**Legumes:**
+  * Kidney Bean
+  * Navy Bean
+  * Peanuts
+  * Soybean
+
+
+
+
+**Spices:**
+  * Black Pepper
+  * Cinnamon
+  * Nutmeg
+
+
+**Nuts:**
+  * Almond
+  * Black Walnut
+  * Cashews
+  * English Walnut
+  * Pecan
+
+
+**Seeds:**
+  * Mustard
+  * Sesame
+
+
+Nightshades:
+  * Green Pepper
+  * White Potato
+
+
+Gluten-Containing Grains:
+  * Barley
+  * Malt
+  * Oats
+  * Rye
+  * Wheat
+
+
+
+
+Gluten-Free Grains/Starches:
+  * Amaranth
+  * Brown Rice
+  * Buckwheat
+  * Corn
+
+
+
+
+Miscellaneous:
+  * Cocoa
+  * Coffee
+  * Hops
+  * Rosemary
+  * Vanilla Bean
+  * Yeast
+
+
+**Fruits:**
+  * Apple
+  * Apricot
+  * Avocado
+  * Banana
+  * Blackberry
+  * Blueberry
+  * Cantaloupe
+  * Cherry
+  * Coconut
+  * Cranberry
+  * Grape
+  * Grapefruit
+  * Lemon
+  * Olive
+  * Orange
+  * Peach
+  * Pear
+  * Pineapple
+  * Raspberry
+  * Strawberry
+  * Tomato
+  * Watermelon
+
+
+**Vegetables:**
+  * Broccoli
+  * Cabbage
+  * Carrot
+  * Cauliflower
+  * Celery
+  * Cucumber
+  * Garlic
+  * Green Bean
+  * Green Peas
+  * Lettuce
+  * Lima Bean
+  * Mushrooms
+  * Onion
+  * Seaweed (Kelp)
+  * Spinach
+  * Squash
+  * Ginger
+  * Sweet Potato
+
+
+Food sensitivities can be the root cause of chronic symptoms like bloating, fatigue, and joint pain that are often misunderstood.
+Many people suffer from undiagnosed food sensitivities, leading to inflammation and discomfort in the digestive system and beyond.
+Testing for food sensitivities provides precise insights into the foods triggering your symptoms, allowing for a more targeted approach to wellness.
+Early identification of food sensitivities enables individuals to avoid the foods that cause inflammation, improving long-term health and quality of life.
+By addressing food sensitivities, individuals can reduce symptoms like fatigue and digestive issues, optimizing overall well-being.
+Eliminating foods that trigger immune responses can reduce inflammation, improve gut health, and help restore balance to the body.
+![Sample Report](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Icons/SampleReport.png?width=450&height=450&name=SampleReport.png)
+[ Sample Report ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Profile-1/Food-Sensitivity-Profile-1-Sample-Report-Full-Report.pdf)
+![Complete Markers List](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Icons/CompleteMarkersList.png?width=450&height=450&name=CompleteMarkersList.png)
+[ Complete Markers List ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Profile-1/Food-Sensitivity-Profile-1-Markers-List.pdf)
+![Patient One Pager](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Icons/PatientOnePager.png?width=450&height=450&name=PatientOnePager.png)
+[ Patient One Pager ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Profile-1/Food-Sensitivity-Profile-1-Patient-One-Pager.pdf)
+![Key Clinical Messages](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Icons/KeyClinicalMessages.png?width=450&height=450&name=KeyClinicalMessages.png)
+[ Key Clinical Messages ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Profile-1/KCM-25-027-FoodSensitivityProfile1.pdf)
+Key Markers
+Animal-Based Foods  Plant-Based Foods  Grains & Miscellaneous Foods
+**Dairy:**
+  * Beta-Casein
+  * Casomorphin
+  * Cow’s Milk
+  * Goat’s Milk
+  * Whey Protein
+
+
+**Meat:**
+  * Beef
+  * Chicken
+  * Egg White
+  * Egg Yolk
+  * Lamb
+  * Pork
+  * Turkey
+
+
+**Fish:**
+  * Catfish
+  * Codfish
+  * Halibut
+  * Lake Trout
+  * Mackerel
+  * Perch
+  * Salmon
+  * Tuna
+
+
+**Shellfish & Mollusks:**
+  * Crab
+  * Lobster
+  * Shrimp
+  * Clam
+  * Oyster
+  * Scallops
+
+
+**Legumes:**
+  * Kidney Bean
+  * Navy Bean
+  * Peanuts
+  * Soybean
+
+
+
+
+**Spices:**
+  * Black Pepper
+  * Cinnamon
+  * Nutmeg
+
+
+**Nuts:**
+  * Almond
+  * Black Walnut
+  * Cashews
+  * English Walnut
+  * Pecan
+
+
+**Seeds:**
+  * Mustard
+  * Sesame
+
+
+Nightshades:
+  * Green Pepper
+  * White Potato
+
+
+Gluten-Containing Grains:
+  * Barley
+  * Malt
+  * Oats
+  * Rye
+  * Wheat
+
+
+
+
+Gluten-Free Grains/Starches:
+  * Amaranth
+  * Brown Rice
+  * Buckwheat
+  * Corn
+
+
+
+
+Miscellaneous:
+  * Cocoa
+  * Coffee
+  * Hops
+  * Rosemary
+  * Vanilla Bean
+  * Yeast
+
+
+**Fruits:**
+  * Apple
+  * Apricot
+  * Avocado
+  * Banana
+  * Blackberry
+  * Blueberry
+  * Cantaloupe
+  * Cherry
+  * Coconut
+  * Cranberry
+  * Grape
+  * Grapefruit
+  * Lemon
+  * Olive
+  * Orange
+  * Peach
+  * Pear
+  * Pineapple
+  * Raspberry
+  * Strawberry
+  * Tomato
+  * Watermelon
+
+
+**Vegetables:**
+  * Broccoli
+  * Cabbage
+  * Carrot
+  * Cauliflower
+  * Celery
+  * Cucumber
+  * Garlic
+  * Green Bean
+  * Green Peas
+  * Lettuce
+  * Lima Bean
+  * Mushrooms
+  * Onion
+  * Seaweed (Kelp)
+  * Spinach
+  * Squash
+  * Ginger
+  * Sweet Potato
+
+
+Why Is This Important
+Food sensitivities can be the root cause of chronic symptoms like bloating, fatigue, and joint pain that are often misunderstood.
+Many people suffer from undiagnosed food sensitivities, leading to inflammation and discomfort in the digestive system and beyond.
+Testing for food sensitivities provides precise insights into the foods triggering your symptoms, allowing for a more targeted approach to wellness.
+Early identification of food sensitivities enables individuals to avoid the foods that cause inflammation, improving long-term health and quality of life.
+By addressing food sensitivities, individuals can reduce symptoms like fatigue and digestive issues, optimizing overall well-being.
+Eliminating foods that trigger immune responses can reduce inflammation, improve gut health, and help restore balance to the body.
+Additional Resources
+![Sample Report](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Icons/SampleReport.png?width=450&height=450&name=SampleReport.png)
+[ Sample Report ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Profile-1/Food-Sensitivity-Profile-1-Sample-Report-Full-Report.pdf)
+![Complete Markers List](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Icons/CompleteMarkersList.png?width=450&height=450&name=CompleteMarkersList.png)
+[ Complete Markers List ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Profile-1/Food-Sensitivity-Profile-1-Markers-List.pdf)
+![Patient One Pager](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Icons/PatientOnePager.png?width=450&height=450&name=PatientOnePager.png)
+[ Patient One Pager ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Profile-1/Food-Sensitivity-Profile-1-Patient-One-Pager.pdf)
+![Key Clinical Messages](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Icons/KeyClinicalMessages.png?width=450&height=450&name=KeyClinicalMessages.png)
+[ Key Clinical Messages ](https://vibrant-wellness.com/hubfs/Tests/Food-Sensitivity-Profile-1/KCM-25-027-FoodSensitivityProfile1.pdf)
+##  Vibrant Advantage
+The Food Sensitivity Profile 1 tests for immune reactions to common foods like gluten, dairy, and eggs, providing a detailed view of food sensitivities linked to chronic inflammation.
+Measures IgG- and IgA-mediated immune responses to commonly consumed foods, helping individuals identify sensitivities that may contribute to digestive discomfort and immune system imbalances.
+Provides actionable insights into which foods are causing immune responses, enabling individuals to avoid triggers and reduce symptoms like bloating, fatigue, and headaches.
+Early detection of food sensitivities allows individuals to adjust their diet to prevent long-term health issues, such as leaky gut, autoimmune conditions, and chronic inflammation.
+By addressing food sensitivities early, individuals can improve digestive health, reduce inflammation, and optimize overall wellness, leading to a healthier, more energized life.
+The Food Sensitivity Profile 1 is backed by clinical validation, ensuring reliable results that support the effective management of food sensitivities.
+##  Pair Food Sensitivity Complete with Food Sensitivity Profile 1
+![Food Sensitivity Test](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Test%20Pages/Candida%20and%20+%20IBS%20Profile/Food%20Sensitivity%20Test.webp?width=1374&height=1030&name=Food%20Sensitivity%20Test.webp)
+Food Sensitivity Profile 1
+![Food Sensitivity Test](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Test%20Pages/Candida%20and%20+%20IBS%20Profile/Food%20Sensitivity%20Test.webp?width=1374&height=1030&name=Food%20Sensitivity%20Test.webp)
+Food Sensitivity Complete
+[](https://vibrant-wellness.com/tests/food-reaction/food-sensitivity-complete)
+Why It Matters
+The Food Sensitivity Profile 1 offers a focused analysis of food sensitivities to 96 common foods, complementing the broader analysis provided by the Food Sensitivity Complete and identifying key triggers that could be causing chronic health issues.
+The Food Sensitivity Complete identifies immune responses to over 100 different foods, helping individuals pinpoint food triggers that may contribute to chronic symptoms like digestive issues, fatigue, and skin rashes.
+Key Insights
+Provides a comprehensive look at food sensitivities by measuring IgG and IgA responses, offering a more complete picture of food-related health issues that impact overall well-being.
+Identifies specific sensitivities to common allergens, such as gluten, eggs, and dairy, helping individuals create more targeted dietary adjustments to alleviate symptoms.
+What’s Measured
+Measures IgG and IgA immune responses to a wide array of foods, including gluten, dairy, eggs, and others, providing deeper insights into food reactivity.
+Measures IgG and IgA immune responses to over 100 foods, including dairy, gluten, eggs, and many others, providing a holistic view of food sensitivities.
+![Food Sensitivity Test](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Test%20Pages/Candida%20and%20+%20IBS%20Profile/Food%20Sensitivity%20Test.webp?width=1374&height=1030&name=Food%20Sensitivity%20Test.webp)
+Food Sensitivity Profile 1
+Why It Matters
+The Food Sensitivity Profile 1 offers a focused analysis of food sensitivities to 96 common foods, complementing the broader analysis provided by the Food Sensitivity Complete and identifying key triggers that could be causing chronic health issues.
+Key Insights
+Provides a comprehensive look at food sensitivities by measuring IgG and IgA responses, offering a more complete picture of food-related health issues that impact overall well-being.
+What’s Measured
+Measures IgG and IgA immune responses to a wide array of foods, including gluten, dairy, eggs, and others, providing deeper insights into food reactivity.
+![Food Sensitivity Test](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Test%20Pages/Candida%20and%20+%20IBS%20Profile/Food%20Sensitivity%20Test.webp?width=1374&height=1030&name=Food%20Sensitivity%20Test.webp)
+Food Sensitivity Complete
+[](https://vibrant-wellness.com/tests/food-reaction/food-sensitivity-complete)
+Why It Matters
+The Food Sensitivity Complete identifies immune responses to over 100 different foods, helping individuals pinpoint food triggers that may contribute to chronic symptoms like digestive issues, fatigue, and skin rashes.
+Key Insights
+Identifies specific sensitivities to common allergens, such as gluten, eggs, and dairy, helping individuals create more targeted dietary adjustments to alleviate symptoms.
+What’s Measured
+Measures IgG and IgA immune responses to over 100 foods, including dairy, gluten, eggs, and many others, providing a holistic view of food sensitivities.
+##  FAQs for Food Sensitivity Profile 1
+[ View all FAQs ](https://help.vibrant-wellness.com/hc/en-us)
+####  What does the Food Sensitivity Profile 1 test measure?
+This test evaluates immune reactivity to multiple food proteins and additives, distinguishing between gut permeability risks and immune activation.
+####  Do I need to fast before taking this test?
+No fasting is required, but it’s recommended to maintain your regular diet before testing for accurate results.
+####  How does food sensitivity impact health?
+Food sensitivity can lead to digestive issues, joint pain, skin conditions, and chronic inflammation.
+####  Who should consider this test?
+Individuals with suspected food-related sensitivities, autoimmune conditions, or digestive disorders.
+####  What should I do if my test results indicate food sensitivity?
+Work with your provider to develop a personalized dietary and lifestyle plan to manage your immune response to foods.
+##  How it works
+![Process1-1](https://vibrant-wellness.com/hs-fs/hubfs/Process1-1.png?width=152&height=152&name=Process1-1.png)
+1
+####  Order Your Test
+Your wellness provider orders your lab test
+![Process2](https://vibrant-wellness.com/hs-fs/hubfs/Process2.png?width=152&height=152&name=Process2.png)
+2
+####  Activate Your Kit
+Scan the QR CODE to activate your kit.
+![Process3](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Process3.png?width=152&height=152&name=Process3.png)
+3
+####  Collect Your Sample
+Follow the instructions included in your test kit to collect your sample.
+![Process4](https://vibrant-wellness.com/hs-fs/hubfs/Process4.png?width=152&height=152&name=Process4.png)
+4
+####  Ship Immediately
+Ship your sample to our lab team for analysis.
+![Process5](https://vibrant-wellness.com/hs-fs/hubfs/Process5.png?width=152&height=152&name=Process5.png)
+5
+####  Receive Personalized Results
+Receive your personalized report within 2-3 weeks.
+TESTING
+##  Featured Tests
+[ View all Tests ](https://vibrant-wellness.com/tests)
+[ ![Food Sensitivity Test](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Test%20Pages/Candida%20and%20+%20IBS%20Profile/Food%20Sensitivity%20Test.webp?width=1374&height=1030&name=Food%20Sensitivity%20Test.webp) Food Sensitivity Complete The Food Sensitivity Complete provides a more expansive analysis of IgG- and IgA-mediated immune responses to over 100 foods, offering a broader view of food sensitivities that may not be captured in the Food Sensitivity Profile 1. ](https://vibrant-wellness.com/tests/food-reaction/food-sensitivity-complete)
+[ ![Gut Zoomer-Icon](https://vibrant-wellness.com/hs-fs/hubfs/Tests/Gut-Zoomer/Gut%20Zoomer-Icon.png?width=1200&height=900&name=Gut%20Zoomer-Icon.png) Gut Zoomer The Gut Zoomer assesses microbial imbalances and gut health, which can play a significant role in food sensitivities. It provides insights into how imbalances in the gut microbiome may exacerbate food reactions. ](https://22446299.hs-sites.com/tests/gut-health/gut-zoomer?__hstc=84994950.2d6aeacad177fe64dbd90bea683b84f6.1758156499825.1758156499825.1758156499825.1&__hssc=84994950.1.1758156499825&__hsfp=784725215)
+[ ![Micronutrients Panel](https://vibrant-wellness.com/hs-fs/hubfs/HD%20Assets/Test%20Pages/Candida%20and%20+%20IBS%20Profile/1%20\(3\).webp?width=869&height=878&name=1%20\(3\).webp) Micronutrient Panel The Micronutrient Panel evaluates nutrient deficiencies that often result from food sensitivities, particularly those impacting digestion and the immune system. Addressing these deficiencies can help reduce symptoms linked to food sensitivities. ](https://vibrant-wellness.com/tests/nutrients/micronutrient-panel)
+[ ![FS - 05](https://vibrant-wellness.com/hs-fs/hubfs/Tests/Food-Sensitivity-Complete/FS%20-%2005.webp?width=1374&height=1030&name=FS%20-%2005.webp) Food Sensitivity Profile 2 The Food Sensitivity Profile 2 expands on the Food Sensitivity Profile 1 by testing for immune responses to over 200 foods, offering a more comprehensive look at potential food triggers that could be contributing to chronic inflammation. ](https://vibrant-wellness.com/tests/food-reaction/food-sensitivity-profile-2)
+[ ![1 \(5\)](https://vibrant-wellness.com/hs-fs/hubfs/1%20\(5\).webp?width=1200&height=900&name=1%20\(5\).webp) Neurotransmitters Panel The Neurotransmitters Panel assesses imbalances in neurotransmitters that may be linked to food sensitivities. Food reactions can influence brain chemistry, leading to mood disturbances, brain fog, and fatigue, all of which can be managed by addressing underlying sensitivities. ](https://vibrant-wellness.com/tests/neural-health/neurotransmitters-panel)
+**Regulatory Statement**
+**Limitations**
+Please note the information provided by Vibrant Wellness is intended solely for research and informational purposes to help inform lifestyle choices aimed at potential risk mitigation. The information is not intended to be used by the patient for any diagnostic purpose and is not a substitute for medical advice by a healthcare practitioner. Please consult a licensed healthcare practitioner for any questions regarding diagnosis, prevention, or treatment of any disease or health assessment.
+
+The New York State Department of Health has not evaluated any test claims nor reviewed the accuracy of this test.
+**Regulatory Disclaimer**
+Please note the information provided by Vibrant Wellness is intended solely for research and informational purposes to help inform lifestyle choices aimed at potential risk mitigation. The tests were developed, and their performance characteristics were determined by Vibrant America and Vibrant Genomics. They have not been cleared or approved by US Food and Drug Administration. The laboratory is certified under the Clinical Laboratory Improvements Amendments (CLIA) as qualified to perform high complexity testing. The laboratory is also in compliance with College of American Pathologists (CAP) regulations and New York State Department of Health (NYSDOH) regulations.
+Get the latest product and company updates
+![VWLogo](https://vibrant-wellness.com/hubfs/HD%20Assets/VWLogo.svg)
+[ ](https://www.instagram.com/vibrantlabs) [ ](https://x.com/vibrantlabs1?lang=en) [ ](https://www.facebook.com/VibrantAmerica/) [ ](https://www.youtube.com/@VibrantWellnessLabs) [ ](https://www.linkedin.com/company/vibrantwellness)
+Address
+3521 Leonard Ct, Santa Clara, CA 95054
+######  Solutions
+[ For Patients ](https://vibrant-wellness.com/for-patients) [ For Providers ](https://vibrant-wellness.com/for-providers) [ Our Tests ](https://vibrant-wellness.com/tests)
+######  Company
+[ About Us ](https://vibrant-wellness.com/about-us) [ Careers ](https://vibrant-wellness.com/career) [ Contact Us ](https://vibrant-wellness.com/contact-us) [ Science and Research ](https://vibrant-wellness.com/technology/science-research)
+######  Resources
+[ Blog ](https://vibrant-wellness.com/blog) [ Podcast ](https://vibrant-wellness.com/podcast) [ Webinar ](https://vibrant-wellness.com/resources/webinar)
+######  Support
+[ Announcements ](https://vibrant-wellness.com/resources/announcements) [ Help Center ](https://help.vibrant-wellness.com/hc/en-us) [ FAQ ](https://help.vibrant-wellness.com/hc/en-us/categories/10029267716635-FAQs)
+© 2025 Vibrant Labs. All rights reserved.
