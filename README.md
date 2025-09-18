@@ -97,6 +97,18 @@ E. Run the FastAPI app
         • Type your question, pick Top K if needed, and click "Ask"
         • Answer appears with inline bracket citations [1], [2]
         • Sources section lists the URLs matching those citations
+
+4) Example Questions
+------------------------------------------
+- what is Gut zoomer test? (see demo gif)
+- why should I do Egg Zoomer test? (see demo gif)
+- what can heavy metals test detect? (see demo gif)
+- Do I need to fast before taking the Food Sensitivity test?
+- What does the Dairy Zoomer measure?
+- What sample type is required for the Environmental Toxins test?
+- How long is the turnaround time for the Candida + IBS Profile?
+- Who should consider the Micronutrient Panel?
+- How is the Salivary Hormone test collected?
      
 Demo gif:
 
