@@ -71,8 +71,8 @@ B. Parse FAQs into structured Q/A
    - Run:
         python extract_qa.py and augment_sections_from_md.py then finalize_kb.py
    - Outputs:
-        qa.jsonl          (each line: {"kind":"qa","question","answer","url",...})
-        sections.jsonl
+        qa.jsonl          (each line: {"kind":"qa","question","answer","url",...});
+        sections.jsonl;
         kb.jsonl          (optional combined corpus if you created one)
 
 C. (Not needed) Build Neo4j KG from Q/A (already completed earlier)
