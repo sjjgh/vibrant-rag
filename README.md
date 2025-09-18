@@ -16,7 +16,7 @@ The pipeline: crawl → parse FAQs → ingest into LightRAG (for retrieval) → 
 2) Environment & Dependencies (Windows + Anaconda)
 --------------------------------------------------
 Prerequisites
-- Anaconda (Python 3.10+ environment)
+- Python 3.10+ environment (Anaconda used in my own environment)
 - Git (optional, for repo)
 - Neo4j Desktop (start a local DB: user neo4j, set a password)
 - Ollama (install from https://ollama.com/download and keep it running)
