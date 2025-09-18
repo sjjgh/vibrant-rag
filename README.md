@@ -58,7 +58,7 @@ Notes
 
 3) Step-by-Step: Data Ingestion Pipeline & Running the App
 ----------------------------------------------------------
-A. Crawl Vibrant Wellness pages (hub + subpages) with crawl4ai
+A. Crawl Vibrant Wellness pages (hub + subpages) with crawl4ai (You can skip A and B by using files in the Data folder)
    - Seed file: include the category hub pages and allow the crawler to follow links to subpages.
    - Run:
         python crawl_vibrant.py
@@ -75,12 +75,7 @@ B. Parse FAQs into structured Q/A
         sections.jsonl;
         kb.jsonl          (optional combined corpus if you created one)
 
-C. (Not needed) Build Neo4j KG from Q/A (already completed earlier)
-   - Run (optional, if you want your custom KG in Neo4j):
-        python build_kg.py
-   - This step is NOT required for LightRAG retrieval but useful for exploration.
-
-D. Ingest into LightRAG for retrieval
+C. Ingest into LightRAG for retrieval
    - Run:
         python ingest_lightrag.py
    - What it does:
@@ -88,7 +83,7 @@ D. Ingest into LightRAG for retrieval
         • Extracts entities/relations and stores them in Neo4j (LightRAG’s own schema)
         • Enables “mix” retrieval (vector + keyword + KG with reranking)
 
-E. Run the FastAPI app
+D. Run the FastAPI app
    - Start server:
         uvicorn app:app --host 0.0.0.0 --port 8000 --reload
    - Open in browser:
