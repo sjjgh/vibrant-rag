@@ -69,7 +69,7 @@ A. Crawl Vibrant Wellness pages (hub + subpages) with crawl4ai (You can skip A a
 
 B. Parse FAQs into structured Q/A
    - Run:
-        python extract_qa.py and augment_sections_from_md.py then finalize_kb.py
+        python extract_qa.py and augment_sections_from_md.py(Cover non-FAQ pages with heading-based chunks) then finalize_kb.py
    - Outputs:
         qa.jsonl          (each line: {"kind":"qa","question","answer","url",...});
         sections.jsonl;
