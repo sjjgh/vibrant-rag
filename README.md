@@ -75,7 +75,7 @@ B. Parse FAQs into structured Q/A
         sections.jsonl;
         kb.jsonl          (optional combined corpus if you created one)
 
-C. Ingest into LightRAG for retrieval
+C. Ingest into LightRAG for retrieval (Using a Local LLM from ollama)
    - Run:
         python ingest_lightrag.py
    - What it does:
@@ -95,9 +95,9 @@ D. Run the FastAPI app
 
 4) Example Questions
 ------------------------------------------
-- what is Gut zoomer test? (see demo gif)
-- why should I do Egg Zoomer test? (see demo gif)
-- what can heavy metals test detect? (see demo gif)
+- What is Gut zoomer test? (see demo gif)
+- Why should I do Egg Zoomer test? (see demo gif)
+- What can heavy metals test detect? (see demo gif)
 - Do I need to fast before taking the Food Sensitivity test?
 - What does the Dairy Zoomer measure?
 - What sample type is required for the Environmental Toxins test?
