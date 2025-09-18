@@ -1,0 +1,12 @@
+# environments / caches / local data
+.env
+__pycache__/
+*.pyc
+kg_cache/
+lr_storage/
+data/
+.ms-playwright/
+
+# OS junk
+.DS_Store
+Thumbs.db
