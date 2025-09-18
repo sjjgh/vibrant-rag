@@ -69,27 +69,24 @@ A. Crawl Vibrant Wellness pages (hub + subpages) with crawl4ai
 
 B. Parse FAQs into structured Q/A
    - Run:
-        python extract_qa.py
+        python extract_qa.py and augment_sections_from_md.py then finalize_kb.py
    - Outputs:
         qa.jsonl          (each line: {"kind":"qa","question","answer","url",...})
+        sections.jsonl
         kb.jsonl          (optional combined corpus if you created one)
 
-C. (Optional) Build your own Neo4j KG from Q/A (already completed earlier)
+C. (Not needed) Build Neo4j KG from Q/A (already completed earlier)
    - Run (optional, if you want your custom KG in Neo4j):
         python build_kg.py
    - This step is NOT required for LightRAG retrieval but useful for exploration.
 
-D. Ingest into LightRAG for retrieval (required for Phase 4’s “Retrieval with LightRAG”)
+D. Ingest into LightRAG for retrieval
    - Run:
         python ingest_lightrag.py
    - What it does:
         • Indexes Q/A chunks (embeddings + keyword) in LightRAG’s storage
         • Extracts entities/relations and stores them in Neo4j (LightRAG’s own schema)
         • Enables “mix” retrieval (vector + keyword + KG with reranking)
-   - Tips if it’s slow:
-        • Ensure Ollama is using GPU (check with `nvidia-smi` while generating)
-        • Lower num_ctx to 8192 in ingest_lightrag.py
-        • Ingest a subset first (e.g., first 60 QAs), verify, then backfill
 
 E. Run the FastAPI app
    - Start server:
