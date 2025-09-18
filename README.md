@@ -69,11 +69,11 @@ A. Crawl Vibrant Wellness pages (hub + subpages) with crawl4ai (You can skip A a
 
 B. Parse FAQs into structured Q/A
    - Run:
-        python extract_qa.py and augment_sections_from_md.py(Cover non-FAQ pages with heading-based chunks) then finalize_kb.py
+        python extract_qa.py and augment_sections_from_md.py(cover non-FAQ pages with heading-based chunks), then finalize_kb.py(combined corpus)
    - Outputs:
         qa.jsonl          (each line: {"kind":"qa","question","answer","url",...});
         sections.jsonl;
-        kb.jsonl          (optional combined corpus if you created one)
+        kb.jsonl          (combined corpus if you created one)
 
 C. Ingest into LightRAG for retrieval (Using a Local LLM from ollama)
    - Run:
