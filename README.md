@@ -100,4 +100,8 @@ E. Run the FastAPI app
         • Type your question, pick Top K if needed, and click "Ask"
         • Answer appears with inline bracket citations [1], [2]
         • Sources section lists the URLs matching those citations
+     
+Demo gif:
+
+![demo](https://github.com/sjjgh/vibrant-rag/blob/main/demo.gif)
 
